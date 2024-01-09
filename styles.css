@@ -1,0 +1,345 @@
+* {
+    font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+  }
+  header {
+    background-image: url("../resources/Banner\ Image.png");
+    width: 1320px;
+    height: 600px;
+    margin: 50px 50px 50px 100px;
+  }
+  .header-content {
+    text-align: center;
+    padding-top: 150px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%);
+  }
+  .header-title {
+    color: #fff;
+    font-size: 32px;
+    font-weight: 400;
+  }
+  .header-description {
+    color: #fff;
+    font-size: 62px;
+    font-weight: 900;
+    width: 575px;
+    padding: 0px 370px;
+  }
+  .div1 {
+    margin: 80px 310px;
+  }
+  .div1-content {
+    color: #f00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 68px;
+    font-weight: 700;
+  }
+  .div1-title {
+    color: #f00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 16px 0px 0px 0px;
+  }
+  .div-off {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 38px;
+    font-weight: 700;
+  }
+  .div1 .div1-img img {
+    width: 91%;
+  }
+  .header2 {
+    background-image: url("../resources/Vectorrr.png");
+    width: 1320px;
+    height: 600px;
+    margin: 50px 50px 50px 100px;
+    display: flex;
+  }
+  .header-content2 {
+    border-radius: 16px;
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%);
+    padding: 80px 200px 80px 124px;
+  }
+  .header-title2 {
+    color: #fff;
+    font-size: 72px;
+    font-weight: 600;
+    width: 575px;
+  }
+  p {
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  .join {
+    color: #fff;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 16px 0px 0px 0px;
+  }
+  .header2 .img7 img {
+    width: 280.83px;
+    height: 400.662px;
+    padding: 95px 180px 0px 0px;
+  }
+  .time {
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    fill: linear-gradient(
+      180deg,
+      rgba(255, 0, 0, 0.1) 0%,
+      rgba(255, 0, 0, 0) 100%
+    );
+    width: 1320px;
+    height: 482px;
+    margin: 90px 50px 50px 100px;
+    text-align: center;
+  }
+  .date-time {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+  
+    padding-top: 20px;
+  }
+  span {
+    color: #f00;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+  }
+  .button {
+    color: #fff;
+    margin-left: 90px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 8px;
+    background: #f00;
+    border: none;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  .div3  {
+    display: flex;
+    margin: 80px 50px 50px 100px;
+    justify-content: space-between;
+    padding: 20px 0px;
+  }
+  .div3-title {
+    color: #f00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 800;
+  }
+  .div3-title2 {
+    color: #070211;
+    font-size: 38px;
+    font-weight: 900;
+    text-transform: capitalize;
+  }
+  
+  .div3-title3 {
+    color: #f00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+  }
+  .p2 {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-weight: 400;
+    width: 357px;
+  }
+  .div3 .div3-img img {
+    border-radius: 363px;
+    border: 15px solid #f00;
+    padding: 30px;
+    width: 263px;
+    height: 263px;
+  }
+  .slaes {
+    margin: 30px 50px 50px 100px;
+  }
+  .sales-content {
+    text-align: center;
+  }
+  .p3 {
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-weight: 400;
+    width: 971.88px;
+    padding-left: 150px;
+    padding-bottom: 50px;
+  }
+  .sales-description {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 90px;
+    padding-right: 10px;
+  }
+  .sales-title {
+    color: #070211;
+    font-size: 72px;
+    font-weight: 900;
+  }
+  .span2 {
+    color: #f00;
+    font-size: 72px;
+    font-weight: 900;
+  }
+  .img6 {
+    padding: 50px 0px 0px 0px;
+    width: 1320px;
+    height: 190px;
+  }
+  .sales-img {
+    background-image: url("../resources/Rectangle\ 1.png");
+    background-repeat: no-repeat;
+    width: min-content;
+    background-position: right top;
+  }
+  .sales-img2 {
+    width: 278.09px;
+    height: 342.424px;
+  }
+  .img5 {
+    padding: 65px 0px 0px 700px;
+  }
+  .img4{
+   position: absolute;
+   width: 36%;
+   height: 67%;
+  padding: 0px 0px 0px 110px;
+  }
+  .pic{
+    margin: 90px 50px 50px 0px;
+  }
+  .p4{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-weight: 400;
+    width: 871.88px;
+    
+  }
+  .pic-raw{
+    position: relative;
+  }
+  .pic-raw1{
+   display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+  
+  }
+  .pic-raw2{
+    display: flex;
+    justify-content: space-between;
+  
+   }
+  .img7{
+    padding-left: 25px;
+  }
+  .img8{
+    padding-left: 23px;
+  }
+  .submit{
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    fill: linear-gradient(
+      180deg,
+      rgba(255, 0, 0, 0.1) 0%,
+      rgba(255, 0, 0, 0) 100%
+    );
+    width: 1320px;
+    height: 482px;
+    margin: 90px 50px 50px 0px;
+  }
+  .submit-content{
+    text-align: center;
+  }
+  .p5{
+    color: rgba(7, 2, 17, 0.6);
+  }
+  .button-btn{
+    display: flex;
+  padding: 40px 0px 0px 242px;
+  }
+  .btn1{
+    width: 648px;
+  height: 72px;
+  border-radius: 50px 0px 0px 50px;
+  background: #FFF;
+  border: none;
+  color: rgba(7, 2, 17, 0.30);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left;
+  padding-left: 50px;
+  }
+  .btn2{
+    width: 210px;
+  height: 72px;
+  border-radius: 0px 50px 50px 0px;
+  background: #F00;
+  border: none;
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: capitalize;
+  }
+  hr{
+    
+    width: 1320px;
+  height: 0px;
+  }
+  footer{
+    background-color: #070211;
+   margin: 90px 0px 0px 0px ;
+  height: 409px;
+  }
+  .footer-title{
+    color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  }
+  
+  .footer-content{
+    display: flex;
+    justify-content: space-around;
+  }
+  .footer-item{
+    width: 375px;
+    height: 80px;
+  }
+  .footer-icon{
+    text-align: center;
+  }
+  
+  .footer-description{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 90px;
+  }
